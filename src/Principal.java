@@ -20,7 +20,9 @@ public class Principal {
                 System.out.printf("%3d " , matriz[x][y]);
             }
             System.out.println("");
+            
     }
+        System.out.println("Fin programa");
         }        
     
 }
